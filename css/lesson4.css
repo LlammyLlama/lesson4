@@ -1,0 +1,58 @@
+sup{
+    color: hotpink;
+    font-weight: bold;
+}
+sub{
+    color: rgb(0, 225, 255);
+    font-weight: bolder;
+}
+ins{
+    color: red;
+    font-weight: bolder;
+}
+strong{
+    color: green;
+    font-weight: bolder;
+}
+em{
+    color: orange;
+    font-weight: bolder;
+}
+del{
+    color: purple;
+    font-weight: bolder;
+}
+#unique {
+    background: url(../images/Lesson4\ umbrella.jpg) left bottom;
+    margin: 10%;
+    text-align: center;
+    padding: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: azure;
+}
+#unique2 {
+    background-color: rgb(240, 240, 157);
+    margin: 10%;
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(235, 155, 195);
+    border: white;
+    border-style: solid none;
+}
+#backgroundrepeat {
+    background-image: url(../images/umbrella\ pattern.jpg);
+    padding: 50px;
+    margin: 10%;
+    background-repeat: repeat;
+    text-align: center;
+}
+span {
+    font-weight: bolder;
+    font-style: italic;
+    background-image: url(../images/umbrella\ pattern.jpg);
+    color: rgb(12, 117, 117);
+}
